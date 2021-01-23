@@ -1,1 +1,1 @@
-A really simple login system made in python.
+A really simple log in system made in python.
