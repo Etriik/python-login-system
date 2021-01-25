@@ -11,6 +11,7 @@ if password == "YourPassword":
     pass
 else:
     sys.exit(0)
+print("")
 firstquestion = input("What is your favorite color? ")
 if firstquestion == "YourAnswer":
     pass
