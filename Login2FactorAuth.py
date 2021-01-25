@@ -23,5 +23,9 @@ else:
     sys.exit(0)
 thirdquestion = input("What is your favorite game? ")
 if thirdquestion == "YourAnswer":
+    pass
+else:
+    sys.exit(0)
+if "pass":
     print("Verified")
 time.sleep(1.5)
