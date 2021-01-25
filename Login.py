@@ -2,15 +2,15 @@ import time
 
 
 name = input("Username: ")
-if name == "Admin":
+if name == "YourName":
     pass
 else:
     sys.exit(0)
 password = input("Password: ")
-if password == "admin":
+if password == "YourPassword":
     pass
 else:
     sys.exit(0)
 if "pass":
     print("Verified")
-time.sleep(2.0)
+time.sleep(1.5)
