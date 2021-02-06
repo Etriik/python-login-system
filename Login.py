@@ -5,12 +5,12 @@ name = input("Username: ")
 if name == "YourName":
     pass
 else:
-    sys.exit(0)
+    quit()
 password = input("Password: ")
 if password == "YourPassword":
     pass
 else:
-    sys.exit(0)
+    quit()
 if "pass":
     print("Verified")
 time.sleep(1.5)
